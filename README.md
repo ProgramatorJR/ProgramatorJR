@@ -1,6 +1,6 @@
 ### Ola Me Chamo Gabriel (ProgramatorJR) 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 Trabalho com Internet Fibra Optica;
 - 🌱 Estudando Full Stack;
